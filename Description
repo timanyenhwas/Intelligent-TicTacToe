@@ -1,0 +1,7 @@
+The above game works on Alpha-beta pruning with Mini-Max Techniques.
+
+It has different defending and Attacking heuristics,It can be understood by making a matrix 
+of the number of x's vs number of o's and then attaching the scores based on the player and
+opponent moves.
+
+The tree prunes upto two levels and uses mini-max techniques.
